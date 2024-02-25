@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ThongtinungdungFragment">
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="152dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/logohc"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15sp"
+        android:text="Sản phẩm của: "
+        android:textColor="#ff0000"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="-10dp"
+        android:text=" Nhóm 10. Hóa Chất Phúc Thịnh "
+        android:textAllCaps="true"
+        android:textColor="@color/colorBlack"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="10dp"
+        android:text="Thành viên nhóm:"
+        android:textAllCaps="true"
+        android:textColor="#ff0000"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="7dp"
+        android:text="   1. Danh Hoàng Sơn  MSSV: 2001190785"
+        android:textColor="@color/colorBlack"
+
+        android:textSize="15sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="7dp"
+        android:text="   2. Nguyễn Phước Tâm MSSV: 2001190799"
+        android:textColor="@color/colorBlack"
+
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="7dp"
+        android:text="   3. Lương Vĩnh Khang MSSV: 2001190594"
+        android:textColor="@color/colorBlack"
+
+        android:textSize="15sp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="10dp"
+        android:text="Giảng viên hướng dẫn"
+        android:textAllCaps="true"
+        android:textColor="#ff0000"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="8dp"
+        android:text="Th.S Nguyễn Thị Thu Tâm"
+        android:textAllCaps="true"
+        android:textColor="@color/colorBlack"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="10dp"
+        android:text="Thông tin tác giả"
+        android:textAllCaps="true"
+        android:textColor="#ff0000"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="8dp"
+        android:text="Đại học Công Thương HUIT"
+        android:textAllCaps="true"
+        android:textColor="@color/colorBlack"
+        android:textSize="15sp" />
+</LinearLayout>

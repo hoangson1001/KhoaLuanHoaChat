@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "381354894306",
+    "firebase_url": "https://hoachat-app-default-rtdb.firebaseio.com",
+    "project_id": "hoachat-app",
+    "storage_bucket": "hoachat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381354894306:android:c89f36f8ae56f54b22cfbb",
+        "android_client_info": {
+          "package_name": "com.example.phucthinhvina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuEyLkbN7TWk4qLGRnFzEr_Ns8k-aeUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
