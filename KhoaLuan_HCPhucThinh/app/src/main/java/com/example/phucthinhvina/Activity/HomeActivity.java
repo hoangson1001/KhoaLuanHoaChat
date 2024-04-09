@@ -103,10 +103,6 @@ public class HomeActivity  extends AppCompatActivity implements FragMent_Home.Fr
                 return true;
             }
         });
-
-
-
-
     }
     private boolean loadFragment(Fragment fragment, int newPosition) {
         if (fragment != null) {
@@ -141,8 +137,6 @@ public class HomeActivity  extends AppCompatActivity implements FragMent_Home.Fr
         bottomNavigationView = findViewById(R.id.bottomNavigationView);
         toolbar = findViewById(R.id.toolbar);
         drawerLayout= findViewById(R.id.drawerlayout);
-
-
     }
 
     @Override
