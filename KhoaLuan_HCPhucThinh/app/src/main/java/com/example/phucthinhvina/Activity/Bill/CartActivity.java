@@ -218,9 +218,6 @@ public class CartActivity extends AppCompatActivity implements GioHangView {
                 finish();
             }
         });
-
-
-
     }
 
     @Override
@@ -232,8 +229,6 @@ public class CartActivity extends AppCompatActivity implements GioHangView {
        }
         progressBar.setVisibility(View.GONE);
         sanPhamAdapter.notifyDataSetChanged();
-
-
     }
 
     @Override
